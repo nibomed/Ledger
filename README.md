@@ -6,4 +6,4 @@ To make it works deploy it and create two variables at server:
 
 BOT_TOKEN //with token of the bot
 
-DATABASE_URL //with full uri to DB
+DATABASE_URL //with full url to DB
