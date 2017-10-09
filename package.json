@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "co": "^4.6.0",
+    "koa-server": "^1.2.2",
+    "moment": "^2.18.1",
+    "pg": "^6.4.2",
+    "sequelize": "^4.8.2",
+    "slackbot": "0.0.2",
+    "slackbots": "^1.0.2",
+    "sugar": "^2.0.4"
+  }
+}
